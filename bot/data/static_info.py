@@ -28,7 +28,7 @@ ULTIMO_RESULTADO_INFO = """📊 **Último Resultado FURIA CS:**
 📉 Placar Final: FURIA 0 vs 2 MongolZ
 
 Seguimos fortes para a próxima! 💪 Para ver os detalhes e stats da partida:
-🔗 [Link da página da partida no HLTV - *Substitua pela URL correta!*]
+🔗 https://www.hltv.org/matches/2381321/furia-vs-the-mongolz-pgl-bucharest-2025
 
 #DIADEFURIA ⚫⚪🐾"""
 
@@ -66,7 +66,7 @@ RANKING_INFO = """🏆 **Ranking Atual FURIA CS (Verificar!)** 🏆
 
 
 # --- Para o comando /links ---
-LINKS_UTEIS = """🔗 **Links Oficiais e Úteis da FURIA:** 🔗
+LINKS_UTEIS = """🔗 **Links Oficiais e Úteis da FURIA:** 
 
 🐦 Twitter: https://twitter.com/furia
 📸 Instagram: https://www.instagram.com/furiagg/
@@ -80,7 +80,7 @@ LINKS_UTEIS = """🔗 **Links Oficiais e Úteis da FURIA:** 🔗
 HLTV: https://www.hltv.org/team/8297/furia
 Liquipedia: https://liquipedia.net/counterstrike/FURIA
 
-Use com sabedoria! 😉"""
+Siga,se inscreva e nos acompanhe em todas as redes sociais 😉"""
 
 # --- Para o comando /noticias (Exemplo Estático) ---
 NOTICIAS_RECENTES = """📰 **Últimas Notícias Furia CS** 📰
@@ -92,6 +92,6 @@ NOTICIAS_RECENTES = """📰 **Últimas Notícias Furia CS** 📰
    <i>Fonte: Calendário Draft5 | Data: Maio/Junho 2025</i>
 
 3. <b><a href="https://draft5.gg/noticia/fallen-analisa-nova-furia-e-fala-sobre-troca-de-funcao-ainda-posso-atuar-em-alto-nivel">FalleN analisa nova FURIA e fala sobre troca de função: "Ainda posso atuar em alto nível"</a></b>
-   <i>Fonte: HLTV.org | Data: 26/04/2025</i>
+   <i>Fonte: Calendário Draft5 | Data: 26/04/2025</i>
 
 Clique nos títulos para ler mais! 😉 Para outras fontes, use /links."""

@@ -29,7 +29,6 @@ from bot.handlers.start_help import start, unknown_command
 from bot.handlers.info import proximojogo, ultimoresultado, elenco, ranking
 from bot.handlers.links import links
 from bot.handlers.news import noticias
-# from bot.handlers.hype import hype_command # Mantenha comentado se não implementou
 from bot.handlers.button_handler import handle_button_press
 
 # --- Configuração do Logging ---
