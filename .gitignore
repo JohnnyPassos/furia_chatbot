@@ -1,0 +1,29 @@
+# Ambiente Virtual Python
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos de Cache e Compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivo de Variáveis de Ambiente
+.env*
+!.env.example # Permite um .env.example se você quiser criar
+
+# Arquivos específicos de IDEs/Editores (opcional)
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arquivos específicos do Sistema Operacional
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Outros (descomente ou adicione conforme necessário)
+# logs/
+# *.log
+# *.sqlite3
